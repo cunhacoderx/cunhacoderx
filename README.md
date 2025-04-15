@@ -1,14 +1,9 @@
 <!-- README.md do perfil GitHub: cunhacoderx -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+Leo+Cunha;Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+apaixonado+por+código+de+qualidade" alt="Typing SVG" />
-</h1>
-
 ---
 
 ### 🧠 Sobre mim
 
-Sou **Leo Cunha**, também conhecido como **`cunhacoderx`**.<br>
+Sou **Leonardo Cunha**, também conhecido na web como **`cunhacoderx`**.<br>
 Atualmente cursando **Engenharia de Software**, e em formação como **Desenvolvedor Full Stack** com foco em padrões de código limpo, escalabilidade e arquitetura moderna.
 
 > Construo software com base em estruturas profissionais (7-1, BEM, modularização), mantendo conformidade com os padrões da **W3C** e boas práticas de **UX/UI**.

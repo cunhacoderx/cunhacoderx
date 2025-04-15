@@ -6,7 +6,7 @@
 Sou **Leonardo Cunha**, também conhecido na web como **`cunhacoderx`**.<br>
 Atualmente cursando **Engenharia de Software**, e em formação como **Desenvolvedor Full Stack** com foco em padrões de código limpo, escalabilidade e arquitetura moderna.
 
-> Construo software com base em estruturas profissionais (7-1, BEM, modularização), mantendo conformidade com os padrões da **W3C** e boas práticas de **UX/UI**.
+> Construo software com base em estruturas profissionais (7-1, BEM, modularização), mantendo conformidade com os padrões da **W3C** e boas práticas de **UX/UI**.>
 
 ---
 
@@ -39,17 +39,7 @@ Atualmente cursando **Engenharia de Software**, e em formação como **Desenvolv
 
 ---
 
-<!-- Você pode manter a seção de contatos oculta por enquanto e ativar depois -->
-
-<!--
-### 🌐 Contato
-
-🚧 Em construção. Em breve mais detalhes!
--->
+<!-- Badge Profissional -->
+![GitHub badge](https://img.shields.io/badge/cunhacoderx-Full%20Stack%20Developer-101010?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
-
-🧩 _“Estética, lógica e estrutura — a tríade do código bem feito.”_
-
----
-

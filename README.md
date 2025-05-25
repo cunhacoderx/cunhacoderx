@@ -1,6 +1,6 @@
 <h1 align="center">Leonardo Cunha | cunhacoderx</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Tenho foco em:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=black)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### 💻 Sistemas Operacionais
@@ -63,7 +63,6 @@ Tenho foco em:
 - SCSS modular
 - Dark Mode
 - Arquitetura frontend limpa (7-1, BEM, SMACSS)
-- Acessibilidade e responsividade com `clamp()`
 
 ---
 

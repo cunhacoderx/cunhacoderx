@@ -1,4 +1,4 @@
-<h1 align="center">Leonardo Cunha | cunhacoderx</h1>
+<h1 align="center">Leonardo Cunha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
 </p>
@@ -15,6 +15,7 @@ Tenho foco em:
 - 🧩 **Boas práticas profissionais**: SOLID, Clean Code, DRY, KISS
 - 🎯 **Interfaces acessíveis, responsivas e escaláveis**
 - 🔧 **Automação com Gulp, Grunt, GitHub Actions**
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas
@@ -52,10 +53,9 @@ Tenho foco em:
 
 ---
 
-
 ## 🔧 Projeto Destaque
 
-### [`STACKED/FT`](https://github.com/cunhacoderx/stacked-ft)
+### [`STACKED/FT`](https://github.com/leonardocunha-dev/stacked-ft)
 > **Landing page moderna** para food truck fictício.
 
 **Recursos:**
@@ -85,10 +85,10 @@ Tenho foco em:
   <a href="mailto:leonardocunha.eng@outlook.com" target="_blank"> 
     <img alt="E-mail" src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
-  <a href="https://instagram.com/cunhacoderx" target="_blank">
+  <a href="https://instagram.com/leonardocunha.dev" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p> 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/cunhacoderx-Full%20Stack%20Dev-242424?style=for-the-badge&logo=github" alt="cunhacoderx badge"/>
+  <img src="https://img.shields.io/badge/leonardocunha--dev-Full%20Stack%20Dev-242424?style=for-the-badge&logo=github" alt="leonardocunha-dev badge"/>
 </p>

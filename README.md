@@ -36,12 +36,10 @@ export { perfil, stack };
 ```
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha-dev&layout=compact&langs_count=8&theme=tokyo-night&bg_color=00000000&hide_border=true&locale=pt-br"/>
-
 <a href="https://github.com/leonardocunha-dev">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocunha-dev&show_icons=true&theme=tokyo-night&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&rank_icon=github&hide_title=true"/>
-</a>
+<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardocunha-dev&show_icons=true&theme=tokyo-night&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&hide_rank=false&hide_title=true&rank_icon=github"/>
 
+<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha-dev&langs_count=8&theme=tokyo-night&bg_color=00000000&hide_border=true&locale=pt-br"/>
 </div>
 
 ---
@@ -51,22 +49,22 @@ export { perfil, stack };
 <div align="center">
 
   <a href="https://github.com/leonardocunha-dev/stacked-ft" target="_blank">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=stacked-ft&theme=tokyonight" alt="stacked-ft"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=stacked-ft&theme=tokyonight" alt="stacked-ft"/>
     
   </a>
 
   <a href="https://github.com/leonardocunha-dev/corte-cuervo-newsletter" target="_blank">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=corte-cuervo-newsletter&theme=tokyonight" alt="corte-cuervo-newsletter"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=corte-cuervo-newsletter&theme=tokyonight" alt="corte-cuervo-newsletter"/>
   </a>
 
   <br />
 
   <a href="https://github.com/leonardocunha-dev/tlou-fandom-page" target="_blank">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=tlou-fandom-page&theme=tokyonight" alt="tlou-fandom-page"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=tlou-fandom-page&theme=tokyonight" alt="tlou-fandom-page"/>
   </a>
 
   <a href="https://github.com/leonardocunha-dev/vira-dados-grunt" target="_blank">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=vira-dados-grunt&theme=tokyonight" alt="vira-dados-grunt"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=vira-dados-grunt&theme=tokyonight" alt="vira-dados-grunt"/>
   </a>
 
 </div>

@@ -1,94 +1,59 @@
-<h1 align="center">Leonardo Cunha</h1>
+<h1 align="center">Olá, eu sou o Leonardo Cunha 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## ⚙️ Sobre Mim
 
-Sou o **Leonardo**, estudante de **Engenharia de Software** e apaixonado por desenvolvimento **Full Stack com Python e Java**.
-
-Tenho foco em:
-
-- 🧠 **Arquitetura de Software (Clean, MVC, 7-1)**
-- 🧩 **Boas práticas profissionais**: SOLID, Clean Code, DRY, KISS
-- 🎯 **Interfaces acessíveis, responsivas e escaláveis**
-- 🔧 **Automação com Gulp, Grunt, GitHub Actions**
+- 🎓 Estudante de Bacharelado em Engenharia de Software  
+- 💼 Assistente de T.I. atuando com infraestrutura e suporte técnico  
+- 🧠 Focado em Clean Code, boas práticas, arquitetura escalável e design patterns  
+- 🧰 Stack: Python, JavaScript, Java, C, C++, C#, SASS/LESS, Git  
+- 🎯 Buscando domínio técnico completo como Engenheiro de Software de alto nível  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 📊 Estatísticas do GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px />
 
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Sass](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<div align="center">
 
-### 🔧 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
+<a href="https://github.com/leonardocunha-dev">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocunha-dev&show_icons=true&theme=ayu-mirage&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&rank_icon=github&hide_title=true"/>
+</a>
 
-### 🛠️ Ferramentas & DevOps
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=black)
-![npm](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+<a href="https://github.com/leonardocunha-dev">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha-dev&langs_count=8&theme=ayu-mirage&bg_color=00000000&hide_border=true&locale=pt-br"/>
+</a>
 
-### 💻 Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+</div>
 
 ---
 
-## 🔧 Projeto Destaque
+## 🚀 Projetos em Destaque
 
-### [`STACKED/FT`](https://github.com/leonardocunha-dev/stacked-ft)
-> **Landing page moderna** para food truck fictício.
-
-**Recursos:**
-
-- SCSS modular
-- Dark Mode
-- Arquitetura frontend limpa (7-1, BEM, SMACSS)
+| Projeto | Projeto |
+|--------|--------|
+| <a href="https://github.com/leonardocunha-dev/stacked-ft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=stacked-ft&theme=ayu-mirage" alt="stacked-ft" width="450"/></a> | <a href="https://github.com/leonardocunha-dev/corte-cuervo-newsletter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=corte-cuervo-newsletter&theme=ayu-mirage" alt="corte-cuervo-newsletter" width="450"/></a> 
+| <a href="https://github.com/leonardocunha-dev/tlou-fandom-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=tlou-fandom-page&theme=ayu-mirage" alt="tlou-fandom-page" width="450"/></a> | <a href="https://github.com/leonardocunha-dev/vira-dados-grunt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=vira-dados-grunt&theme=ayu-mirage" alt="vira-dados-grunt" width="450"/></a> |
 
 ---
 
-## 📚 Em aprendizado
-
-- 🧠 **Design Patterns**: MVC, Singleton, Factory
-- 🧼 **Clean Code + SOLID** com Java e Python
-- 🧪 **Testes**: Unitários, Automatizados, TDD
-- ⚙️ **CI/CD com GitHub Actions**
-- 🔌 **Programação embarcada com C (Renesas)**
-- 📁 Estruturação profissional de repositórios
-- ⚡ Otimização (Performance, SEO, Acessibilidade)
-
----
+## 📫 Contato
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/leonardo-cunha-eng/" target="_blank"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" /> 
   </a> 
   <a href="mailto:leonardocunha.eng@outlook.com" target="_blank"> 
-    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a> 
   <a href="https://instagram.com/leonardocunha.dev" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p> 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/leonardocunha--dev-Full%20Stack%20Dev-242424?style=for-the-badge&logo=github" alt="leonardocunha-dev badge"/>
-</p>
+
+---
+
+<h3 align="center">"Busque excelência no invisível do software. O que ninguém vê, sustenta o que todos usam." — Clean Code</h3>

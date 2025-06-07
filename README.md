@@ -1,7 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Leonardo Cunha</h1>
+<h1 align="center">Olá, eu sou o Leonardo Cunha</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FFD173&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+em+formação;Desenvolvedor+Full+Stack+(Python+%7C+Java);Clean+Architecture+%7C+UX+%7C+Automação" alt="Typing SVG" />
 </p>
+
 
 
 ### 🧾 Sobre mim
@@ -37,9 +39,9 @@ export { perfil, stack };
 
 <div align="center">
 <a href="https://github.com/leonardocunha-dev">
-<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardocunha-dev&show_icons=true&theme=tokyo-night&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&hide_rank=false&hide_title=true&rank_icon=github"/>
+<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardocunha-dev&show_icons=true&theme=ayu-mirage&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&hide_rank=false&hide_title=true&rank_icon=github"/>
 
-<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha-dev&langs_count=8&theme=tokyo-night&bg_color=00000000&hide_border=true&locale=pt-br"/>
+<img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha-dev&langs_count=8&theme=ayu-mirage&bg_color=00000000&hide_border=true&locale=pt-br"/>
 </div>
 
 ---
@@ -49,22 +51,22 @@ export { perfil, stack };
 <div align="center">
 
   <a href="https://github.com/leonardocunha-dev/stacked-ft" target="_blank">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=stacked-ft&theme=tokyonight" alt="stacked-ft"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=stacked-ft&theme=ayu-mirage" alt="stacked-ft"/>
     
   </a>
 
   <a href="https://github.com/leonardocunha-dev/corte-cuervo-newsletter" target="_blank">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=corte-cuervo-newsletter&theme=tokyonight" alt="corte-cuervo-newsletter"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=corte-cuervo-newsletter&theme=ayu-mirage" alt="corte-cuervo-newsletter"/>
   </a>
 
   <br />
 
   <a href="https://github.com/leonardocunha-dev/tlou-fandom-page" target="_blank">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=tlou-fandom-page&theme=tokyonight" alt="tlou-fandom-page"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=tlou-fandom-page&theme=ayu-mirage" alt="tlou-fandom-page"/>
   </a>
 
   <a href="https://github.com/leonardocunha-dev/vira-dados-grunt" target="_blank">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=vira-dados-grunt&theme=tokyonight" alt="vira-dados-grunt"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocunha-dev&repo=vira-dados-grunt&theme=ayu-mirage" alt="vira-dados-grunt"/>
   </a>
 
 </div>
